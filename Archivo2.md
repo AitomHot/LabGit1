@@ -1,0 +1,5 @@
+# Archivo 2
+
+## Primeras pruebas y cambios
+
+Este es el archivo 2, en el primer cambio que hago al proyecto
