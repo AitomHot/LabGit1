@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 # Ficheros comprimidos por mi mismo
-.zip
+*.zip
