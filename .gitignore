@@ -352,3 +352,6 @@ MigrationBackup/
 # Ficheros comprimidos por mi mismo
 *.zip
 *.pptx
+*.docx
+*.xlsx
+*.rar
